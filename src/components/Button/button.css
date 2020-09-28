@@ -1,0 +1,24 @@
+.btn{
+    border: 0;
+    border-radius: 10px;
+    padding: 10px 20px;
+    outline: 0;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.btn-primary{
+    background-color: aquamarine;
+}
+
+.btn-secondary{
+    background-color: antiquewhite;
+}
+
+.small{
+    font-size: 14px;
+}
+
+.large{
+    font-size: 20px;
+}
